@@ -1,14 +1,14 @@
-# Amigo Secreto
+# 🤫 Amigo Secreto
 
 Este projeto é um sorteador de amigo secreto online, desenvolvido com HTML, CSS e JavaScript para o desafio da Alura em parceria com a Oracle Next Education.
 
-## Funcionalidades
+## 🔵 Funcionalidades
 
 * Adicionar nomes de amigos à lista.
 * Sortear um amigo secreto aleatório entre os nomes da lista.
 * Exibir o resultado do sorteio na tela.
 
-## Como usar
+## ⚡ Como usar
 
 1. Clone este repositório: `git clone https://github.com/demianscult/challenge-amigo-secreto_alura_one.git`
 2. Abra o arquivo index.html no seu navegador.
@@ -21,17 +21,17 @@ Este projeto é um sorteador de amigo secreto online, desenvolvido com HTML, CSS
 8. O resultado do sorteio será exibido na tela.
 ![image](https://github.com/user-attachments/assets/9a7a6698-d992-4334-b2e6-85dc244500d1)
 
-## Tecnologias utilizadas
+## 📝 Tecnologias utilizadas
 
 * HTML
 * CSS
 * JavaScript
 
-## Status do projeto
+## 🟢 Status do projeto
 
 Completado.
 
-## Problemas e soluções
+## 🤯 Problemas e soluções
 
 Durante o desenvolvimento deste projeto, enfrentei alguns desafios que gostaria de compartilhar, juntamente com as soluções que encontrei:
 
@@ -46,5 +46,5 @@ Solução: Corrigi a condição if (!nome) na função adicionarAmigo() para if 
 
 Este projeto está sob a licença MIT.
 
-## Autor
+## 💖 Autor
 Evellyn Pereira Silva
