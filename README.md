@@ -10,7 +10,7 @@ Este projeto é um sorteador de amigo secreto online, desenvolvido com HTML, CSS
 
 ## ⚡ Como usar
 
-1. Clone este repositório: `git clone https://github.com/demianscult/challenge-amigo-secreto_alura_one.git`
+1. Clone este repositório: `https://github.com/demianscult/challenge-amigo-secreto_alura_one.git`
 2. Abra o arquivo index.html no seu navegador.
 3. Digite o nome dos seus amigos no campo "Digite um nome".
 ![image](https://github.com/user-attachments/assets/57784e5c-ffab-4461-ae88-0aa31d7d3df2)
